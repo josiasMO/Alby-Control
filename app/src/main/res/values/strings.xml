@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Alby Control</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="IPString">IP Address</string>
+    <string name="usernameString">Username</string>
+    <string name="passwordString">Password</string>
+    <string name="deviceNameString">Device Name</string>
+    <string name="registerHereString">Register Your Device Here</string>
+    <string name="registerString">Register</string>
+    <string name="newDeviceRegistered">New Device Registered</string>
+    <string name="registeredDevicesString">Registered Devices</string>
+    <string name="errorDeviceAlreadyExists">Device not added: There already is a device with this name</string>
+    <string name="yourDevices">Your Devices</string>
+    <string name="clearHistoryDevices">Clear Device History</string>
+    <string name="errorDeviceName">You Must Enter a Device Name</string>
+    <string name="errorIPAddress">The IP Address is Invalid</string>
+    <string name="errorUserName">You Must Enter a Username</string>
+    <string name="errorPassword">You Must Enter a Password</string>
+    <string name="errorUserNameSpaceBefore">You Must Remove the Spaces Beore the Username</string>
+    <string name="errorUserNameSpaceAfter">You Must Remove the Spaces After the Username</string>
+    <string name="errorPasswordSpaceBefore">You Must Remove the Spaces Before the Password</string>
+    <string name="errorPasswordSpaceAfter">You Must Remove the Spaces After the Password</string>
+</resources>

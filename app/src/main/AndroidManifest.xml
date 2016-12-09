@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.josias.AlbyControl" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="AndroBerryPI"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name="com.josias.AlbyControl.LoginActivity"
+            android:label="AlbyControl" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.josias.AlbyControl.MainActivity"
+            android:label="AlbyControl" >
+            <intent-filter>
+                <action android:name="com.josias.AlbyControl" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.josias.AlbyControl.RegisterActivity"
+            android:label="AlbyControl" >
+            <intent-filter>
+                <action android:name="com.josias.RegisterActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

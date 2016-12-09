@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PI</string>
+    <string name="IPString">Endereço IP</string>
+    <string name="usernameString">Nome de Usuário</string>
+    <string name="passwordString">Senha</string>
+    <string name="deviceNameString">Nome do Dispositivo</string>
+    <string name="registerHereString">Cadastre Seu Dispositivo Aqui</string>
+    <string name="registerString">Cadastrar</string>
+    <string name="newDeviceRegistered">Novo Dispositivo Cadastrado</string>
+    <string name="registeredDevicesString">Dispositivos Cadastrados</string>
+    <string name="errorDeviceAlreadyExists">Dispositivo não cadastrado: Já existe um dispositivo cadastrado com esse nome</string>
+    <string name="yourDevices">Seus Dispositivos</string>
+    <string name="clearHistoryDevices">Limpar Histórico de Dispositivos</string>
+    <string name="errorDeviceName">É preciso digitar um Nome para o Dispositivo</string>
+    <string name="errorIPAddress">Endereço IP Inválido</string>
+    <string name="errorUserName">É Preciso Digitar um Nome de Usuário</string>
+    <string name="errorPassword">É Preciso Digitar uma Senha</string>
+    <string name="errorUserNameSpaceBefore">É preciso remover os espaços antes do Nome de Usuário</string>
+    <string name="errorUserNameSpaceAfter">É preciso remover os espaços após o Nome de Usuário</string>
+    <string name="errorPasswordSpaceBefore">É preciso remover os espaços antes da Senha</string>
+    <string name="errorPasswordSpaceAfter">É preciso remover os espaços após a Senha</string>
+</resources>
