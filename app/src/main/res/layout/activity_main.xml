@@ -37,4 +37,13 @@
         android:backgroundTint="@android:color/holo_blue_dark"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Edit Joints"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="79dp"
+        android:id="@+id/button_editJoints"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/button_testJoints" />
 </RelativeLayout>

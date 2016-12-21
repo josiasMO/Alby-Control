@@ -3,15 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_67852ba3dda3a165271d8fde926cc4f5fd263606/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -39,24 +30,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_a6b9be38b17a017a8b3e4a1d564941b5ace66b3c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_6091b0a4059bc8a21c21101487a34ea814d4d23d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -72,6 +45,159 @@
         revision="25.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_f2bcf523aca68447dfd71eee444182a42d963f30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_755f0f1fcfcf39250165ad32d4e95ba406b215c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_4867fddc192e09e8801b90b71ca43ffd01f5f8af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.54/da3584329a263616e277e15462b387addd1b208d/jsch-0.1.54.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da3584329a263616e277e15462b387addd1b208d">
+        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsch-0.1.54_d029c1ba714975bc959eb4bee80fa2dd28aec356/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_597d4ff56e976674154c3950fbd396a55b70c870/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_ffb841ed2e5be524055a0106c2bc2ae726c0db9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_d1f025827306fa5349a9f8805b8a1c81da2e00a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_a821a268eca8fed1894a127ae1739a4bb4fe3497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_682a96998cf49b3ab40cefd0e27e23b8de614e58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3454b81169ecc7393be9c64beedc52c6a9f6d018/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_fda32caab9ae2cfcf8878bec5e8f426d6570ceac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_aea9574ef8089a33b0c5973ac0e12323e5b9cbb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="982b4d4a9f6b8858e7644a4315434d1a528e09f1">
+        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c0121ef693b15c70df70b92aae767d25b639d7a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_3fa8c8c3821856deb5e7819d0e9dc3a0d657f766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_f282a352e6f37fc29c2b407bca258638ecfcb69f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_67852ba3dda3a165271d8fde926cc4f5fd263606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_a6b9be38b17a017a8b3e4a1d564941b5ace66b3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_6091b0a4059bc8a21c21101487a34ea814d4d23d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,15 +255,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_755f0f1fcfcf39250165ad32d4e95ba406b215c2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -156,66 +273,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_4867fddc192e09e8801b90b71ca43ffd01f5f8af/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.54/da3584329a263616e277e15462b387addd1b208d/jsch-0.1.54.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="da3584329a263616e277e15462b387addd1b208d">
-        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsch-0.1.54_d029c1ba714975bc959eb4bee80fa2dd28aec356/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_597d4ff56e976674154c3950fbd396a55b70c870/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_ffb841ed2e5be524055a0106c2bc2ae726c0db9a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="32918d204ba7db706fe2174edadb7d5cb14cd3e4">
         <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d66224328ce52931061de91eda30cbb690a4cb6d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_d1f025827306fa5349a9f8805b8a1c81da2e00a1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_a821a268eca8fed1894a127ae1739a4bb4fe3497/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -228,48 +291,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_682a96998cf49b3ab40cefd0e27e23b8de614e58/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3454b81169ecc7393be9c64beedc52c6a9f6d018/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="b4e6f11b98bc23e002ef561d8ee491aa223cb9b1">
+        sha1="c06729d67d32f76b9f36eb499f5be45cfbcb3e75">
         <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b6ec64b7bd25b506ebbea09e95ab8d44c92bc847/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
-        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_fda32caab9ae2cfcf8878bec5e8f426d6570ceac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_aea9574ef8089a33b0c5973ac0e12323e5b9cbb7/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -279,15 +306,6 @@
         revision="25.0.1"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
         <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_751e2601bd83a0948370b69591c15ac517b6c791/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="7020e6ca2d65a8de214f42fffee73cacfeba1113">
-        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c0121ef693b15c70df70b92aae767d25b639d7a9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -306,24 +324,6 @@
         revision="25.0.1"
         sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
         <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_3f57cf72e72a53df0b9407f45b2982186b40593e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="0a9cb567dc008f570c28531720168f19148da965">
-        <dex dex="/Users/josias/Documents/github/qiron/Alby-Control/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_3fa8c8c3821856deb5e7819d0e9dc3a0d657f766/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/josias/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/josias/Documents/github/qiron/AlbyControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_f282a352e6f37fc29c2b407bca258638ecfcb69f/classes.dex" />
     </item>
 
 </items>

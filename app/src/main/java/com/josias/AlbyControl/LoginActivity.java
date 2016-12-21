@@ -38,7 +38,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         ImageView imageAndroid = (ImageView) findViewById(R.id.imageViewAndroid);
         ImageView imageRaspberry = (ImageView) findViewById(R.id.imageViewRaspberry);
         imageAndroid.setBackground(getResources().getDrawable(R.mipmap.android));
-        imageRaspberry.setBackground(getResources().getDrawable(R.mipmap.raspberry));
+        imageRaspberry.setBackground(getResources().getDrawable(R.mipmap.ic_launcher));
         ((Button) findViewById(R.id.loginButton)).setOnClickListener(this);
         ((Button) findViewById(R.id.registerButtonId)).setOnClickListener(this);
         registeredDevices.setOnItemSelectedListener(this);
